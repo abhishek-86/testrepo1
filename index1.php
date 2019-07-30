@@ -1,5 +1,5 @@
 <?php>
-echo "Welcome to My Azure Hosted Site"
+echo "Welcome to My Azure 2nd Hosted Site"
 echo "<br>";
 phpinfo();
 ?>
